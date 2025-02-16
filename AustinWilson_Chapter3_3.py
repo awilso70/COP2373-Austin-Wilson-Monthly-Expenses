@@ -35,4 +35,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-print("press enter to exit")
+input('press enter to exit')
